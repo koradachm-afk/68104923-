@@ -6,7 +6,7 @@ import fieldImage from "@/assets/field.svg";
 import basketballImage from "@/assets/basketball.svg";
 import footballImage from "@/assets/football.svg";
 import valleyballImage from "@/assets/valleyball.svg";
-import humanImage from "@/assets/human.svg";
+import humanImage from "@/assets/meaw.jpg";
 import cartoonImage from "@/assets/cartoon.svg";
 import { Button } from "@/components/tailgrids/core/button";
 import { checkLogin } from "@/utils/login";
