@@ -10,7 +10,7 @@ export default function Footer() {
 
         {/* student */}
       <div>
-        <Badge className="text-2xl text-black rounded-lg">68015429 นายพรชัย เที่ยงจิตร</Badge>
+        <Badge className="text-2xl text-black rounded-lg">68104923 นางสาวกรฎา จำปาศรี</Badge>
       </div>
 
         {/* contacts */}

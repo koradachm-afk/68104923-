@@ -1,6 +1,6 @@
 "use client";
 
-import profilePic from "@/assets/profile.jpg";
+import profilePic from "@/assets/pro.jpeg";
 import { checkLogin } from "@/utils/login";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
@@ -27,7 +27,7 @@ export default function Home() {
           <section className="text-center sm:text-left">
             <p className="text-md leading-relaxed text-slate-800">
               <b className="text-lg block mb-2 text-black-600">
-                68015429, Mr.Phornchai Thiangchit
+                68104923, นางสาวกรฎา จำปาศรี
               </b>
               <span className="font-medium">Computer Science and Software</span>
               <br />
